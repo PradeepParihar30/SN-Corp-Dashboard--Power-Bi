@@ -58,3 +58,7 @@ The source Excel file contains:
 <b>Customer Insights:</b> Segment performance and top customers
 
 <b>Dynamic Filters:</b> Filter by date range, geography, segment & ship mode
+
+## 📸 Dashboard Preview
+
+![Sales Dashboard Preview](assets/dashboard.png)
