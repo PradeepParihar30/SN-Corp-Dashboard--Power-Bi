@@ -61,4 +61,4 @@ The source Excel file contains:
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard Preview](assets/dashboard.png)
+![Sales Dashboard Preview](assets/image.png)
