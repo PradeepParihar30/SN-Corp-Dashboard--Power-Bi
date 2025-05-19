@@ -1,7 +1,7 @@
-# SN-Corp-Dashboard--Power-Bi
+# SN-Corporation-Dashboard--Power-Bi
 
 📦 Sales Analysis Dashboard (Power BI)
-This is an interactive Power BI dashboard project built using a SN Corp Sales Dataset containing key information such as orders, customer details, geography, and profit performance.
+This is an interactive Power BI dashboard project built using a SN Corporation Sales Dataset containing key information such as orders, customer details, geography, and profit performance.
 
 📁 Dataset Overview
 The source Excel file contains:
